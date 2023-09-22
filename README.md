@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on [Jagriti](https://jagriti.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [abcd](abcd)
-
 - 💬 Ask me about **Html,Css,Javascript,Bootstrap,Git & Github,vs-code,Php,React**
 
 - 📫 How to reach me **shreyanskatariya4622@gmail.com**
